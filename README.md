@@ -1,4 +1,4 @@
-#📊 BI + ML Platform
+**📊 BI + ML Platform**
 
 🚀 Business Intelligence & Machine Learning Platform
 An interactive data analytics web application built with Python + Streamlit that transforms raw datasets into visual dashboards, machine learning predictions, forecasts, and automated insights.
