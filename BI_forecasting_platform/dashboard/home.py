@@ -9,7 +9,7 @@ from utils.data_manager import get_df, get_clean_df, get_models
 
 
 def render():
-    st.title("📊 BI + ML Platform")
+    st.title("Automated BI Dashboard & Forecasting Platform")
     st.markdown(
         "Welcome! Upload any **CSV or Excel** dataset and the platform will "
         "clean it, analyse it, train machine-learning models, forecast trends, "
