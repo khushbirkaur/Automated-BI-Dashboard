@@ -59,7 +59,7 @@ st.markdown(
 # ── Sidebar navigation ────────────────────────────────────────────────────────
 with st.sidebar:
     st.markdown(
-        "<h2 style='color:#f1f5f9;margin-bottom:0'>📊 BI + ML</h2>"
+        "<h2 style='color:#f1f5f9;margin-bottom:0'>📊 Automated_BI_Dashboard_&_Forcasting_Platform</h2>"
         "<p style='color:#64748b;font-size:0.75rem;margin-top:4px'>Business Intelligence Platform</p>",
         unsafe_allow_html=True,
     )
